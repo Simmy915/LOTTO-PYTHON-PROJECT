@@ -1,0 +1,57 @@
+Date: 21/06/2021
+Name: Simmy
+   Player ID: Simmy1
+   Email: sitholesimpra18@gmail.com
+   Winning combination: [40, 29, 30, 23, 48, 12]
+   Total sets played for all games: 1
+   Total winnings due: R20
+
+Date: 21/06/2021
+Name: Simmy
+   Player ID: Simmy2
+   Email: sitholesimpra18@gmail.com
+   Winning combination: [24, 17, 34, 10, 11, 32]
+   Total sets played for all games: 1
+   Total winnings due: R20
+
+Date: 21/06/2021
+Name: Simmy
+   PlayerID: 0a6e1a1d-cfa6-11eb-b95b-6c71d9ddecc8
+   Email: sitholesimpra@gmail.com
+   Winning combination: [32, 17, 12, 11, 43, 29]
+   Total sets played for all games: 1
+   Total winnings due: R20
+
+Date: 21/06/2021
+Name: Simmy
+   PlayerID: 3dfcfc2b-cfa6-11eb-9962-6c71d9ddecc8
+   Email: sitholesimpra18@gmail.com
+   Winning combination: [06, 15, 14, 40, 19, 35]
+   Total sets played for all games: 1
+   Total winnings due: R10000000
+
+Date: 21/06/2021
+Name: Simmy
+   PlayerID: 77288f78-cfa9-11eb-99ae-6c71d9ddecc8
+   Email: sitholesimpra18@gmail.com
+   Winning combination: [45, 28, 27, 4, 30, 21]
+   Total sets played for all games: 1
+   Total winnings due: R300
+
+Date: 18/6/2021
+Name: Matthew
+   PlayerID: 76c4164c-d031-11eb-8be9-79c72c643bee
+   Email: sitholesimpra18@gmail.com
+   Winning combination: [12, 11, 19, 21, 48, 14]
+   Total sets played for all games: 1
+   Total winnings due: R10000000
+
+Date: 21/6/2021
+Name: sam
+   Address: Claremont
+   PlayerID: 69b51
+   Email: samkelo@gmail.com
+   Winning combination: [38, 12, 4, 31, 29, 36]
+   Total sets played for all games: 1
+   Total winnings due: R0
+
